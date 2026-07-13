@@ -1,6 +1,6 @@
 # Visa Approval Prediction
 
-Predicting US work visa approval outcomes using supervised machine learning.
+Predicting US work visa approval outcomes using supervised machine learning
 
 ## Overview
 Built classification models to predict whether a visa application will be **Certified or Denied** based on applicant education, experience, wage, and employer data.
